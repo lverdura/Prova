@@ -1,1 +1,3 @@
-Modificació 1
+Modificació 1: creació del document
+
+Modificació 2: modificació del document
